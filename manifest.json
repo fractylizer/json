@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Custom Paintings Pack",
+    "name": "Custom Paintings Pack",
+    "uuid": "45832410-f726-11ed-b67e-0242ac120002",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 17, 30]
+  },
+  "modules": [
+    {
+      "description": "Custom Paintings Pack",
+      "type": "resources",
+      "uuid": "525225ba-f726-11ed-b67e-0242ac120002",
+      "version": [1, 0, 0]
+    }
+  ]
+}
